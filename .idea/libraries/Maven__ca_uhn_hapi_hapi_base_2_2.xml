@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ca.uhn.hapi:hapi-base:2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/ca/uhn/hapi/hapi-base/2.2/hapi-base-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/ca/uhn/hapi/hapi-base/2.2/hapi-base-2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/ca/uhn/hapi/hapi-base/2.2/hapi-base-2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
