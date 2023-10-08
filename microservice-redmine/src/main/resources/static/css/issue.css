@@ -1,0 +1,86 @@
+@charset "UTF-8";
+body {
+  font-family: "微软雅黑", "宋体";
+  background: #EEEEEE;
+  color: #333333; }
+
+.logo-img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px; }
+
+.weui-navigator-list li a {
+  font-size: 14px; }
+
+.weui-navigator-wrapper {
+  height: 50px;
+  line-height: 35px; }
+
+.weui_grids {
+  background: #ffffff; }
+
+
+
+.top-warp-fixed {
+  position: fixed;
+  z-index: 222;
+  width: 100%;
+  top: 0;
+  margin-bottom: 108px; }
+
+
+
+.cont-b-tit {
+  border-bottom: 1px solid #eeeeee; }
+.cont-b-tit h3 {
+    text-align: center;
+    padding: 10px 0 3px 0;
+    background-color: #ffffff;
+    font-size: 14px; }
+.cont-b-tit .project-overview {
+    float: left;
+    width:100%;
+    background-color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    color: #333;}
+.cont-b-tit .project-overview label {
+    font-size: 14px;}
+
+
+
+.warp-box {
+  margin-top: 190px; }
+.issue-title {
+    text-align: center;
+    font-size: 14px;}
+.project-detail {
+    font-size: 12px;
+    margin-right: 50px;}
+
+.issue-search {
+    background-color: #ffffff;}
+.issue-search label {
+    font-size: 14px;}
+.issue-search input {
+    font-size: 14px;}
+.issue-search div select {
+    font-size: 14px;}
+.issue-search div select option {
+    font-size: 14px;}
+.project-title {
+    text-align: center;
+    font-size: 14px;}
+.issue-search textarea {
+    font-size: 14px;}
+.issue-search a {
+    font-size: 14px;}
+.project-detail {
+    font-size: 12px;
+    margin-right: 50px;}
+
+.tab-gr{
+  color: #04be12;
+  background: rgba(0,0,0,0) none repeat scroll 0 0;
+  border-bottom: 3px solid #04be12;
+}

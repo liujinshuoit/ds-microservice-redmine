@@ -1,0 +1,104 @@
+@charset "UTF-8";
+body {
+  font-family: "微软雅黑", "宋体";
+  background: #EEEEEE;
+  color: #333333; }
+
+.logo-img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px; }
+
+.weui-navigator-list li a {
+  font-size: 14px; }
+
+.weui-navigator-wrapper {
+  height: 50px;
+  line-height: 35px; }
+
+.weui_grids {
+  background: #ffffff; }
+
+
+
+.top-warp-fixed {
+  position: fixed;
+  z-index: 222;
+  width: 100%;
+  top: 0;
+  margin-bottom: 108px; }
+
+
+
+.cont-b-tit {
+  border-bottom: 1px solid #eeeeee; }
+.cont-b-tit .project-overview-up {
+    text-align: center;
+    background-color: #ffffff;
+    font-size: 14px; }
+.cont-b-tit .project-overview-up label{
+    font-size: 14px;}
+.cont-b-tit .project-overview-up span{
+    font-size: 14px;
+    margin-right: 30px;}
+.cont-b-tit .project-overview-down {
+    width:100%;
+    background-color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    color: #333;}
+.cont-b-tit .project-overview-down label {
+    font-size: 14px;
+    margin-right: 60px;}
+.cont-b-tit .project-overview-down div label{
+    width: 20%;
+    float: left;
+    font-size: 12px;}
+.cont-b-tit .project-overview-down div span{
+    width: 40%;
+    float: left;
+    font-size: 12px;
+    text-align: center;}
+.cont-b-tit .project-overview-select {
+    width:100%;
+    background-color: #ffffff;
+    font-size: 14px;}
+.cont-b-tit .project-overview-select label{
+    float: left;
+    font-size: 14px;}
+.cont-b-tit .project-overview-select select{
+    float: left;
+    font-size: 14px;}
+.cont-b-tit .project-overview-select img{
+    width: 20px;
+    height: 20px;}
+
+
+
+.warp-box {
+  margin-top: 200px; }
+.issue-search {
+    background-color: #ffffff;}
+.issue-search label {
+    font-size: 14px;}
+.issue-search span {
+    font-size: 14px;}
+.issue-search div select {
+    font-size: 14px;}
+.issue-search div select option {
+    font-size: 14px;}
+
+.issue-title {
+    text-align: center;
+    font-size: 14px;}
+.issue-detail-name {
+    font-size: 12px;}
+.issue-detail-num {
+    font-size: 12px;
+    margin-right: 30px;}
+
+.tab-gr{
+  color: #04be12;
+  background: rgba(0,0,0,0) none repeat scroll 0 0;
+  border-bottom: 3px solid #04be12;
+}

@@ -1,0 +1,25 @@
+server:
+  port: 8080
+
+#Redmine
+redmine:
+  url: http://139.159.200.197/redmine
+  apiKeyJson: '[{"name":"admin", "apiKey":"efca8405bab16ad4061cbb2ed8b14ddf116ae925"},{"name":"柳金硕", "apiKey":"3a41436bf6bb938eddee3c0ce828e82a89b0206e"}]'
+
+#企业微信
+qywx:
+  corpId: wwad3174e7a51d5933
+  tokenUrl: https://qyapi.weixin.qq.com/cgi-bin/gettoken
+  userListUrl: https://qyapi.weixin.qq.com/cgi-bin/user/simplelist
+  userListAppSecret: vhaYbCop64x4TjJbWbTebWdmpPvt1MOrB2LTwtdUE_I
+  redmineUserInfoUrl: https://qyapi.weixin.qq.com/cgi-bin/user/getuserinfo
+  redmineAppSecret: 0i_QzudHhXqKjOdxnx8_eBSZ3cMz1JBS4w0BkuccOCo
+
+#日志记录
+logging:
+    config: classpath:logback.xml
+    level:
+        com:
+          das:
+            consultation:
+              mapper: trace

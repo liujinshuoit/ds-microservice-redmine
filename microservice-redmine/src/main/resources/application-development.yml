@@ -1,0 +1,11 @@
+server:
+  port: 6666
+
+#日志记录
+logging:
+    config: classpath:logback.xml
+    level:
+        com:
+          das:
+            consultation:
+              mapper: trace
